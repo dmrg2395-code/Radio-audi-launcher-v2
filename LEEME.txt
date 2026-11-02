@@ -1,0 +1,7 @@
+Launcher Radio Audi A3 (negro, iconos blancos, lineas rojas)
+1. Crea un repositorio nuevo en GitHub y sube TODO el contenido de esta carpeta (incluida la carpeta oculta .github).
+2. Pestana Actions > "Build APK" > Run workflow (o se ejecuta solo al subir).
+3. Al terminar, abre la ejecucion y descarga el artefacto "launcher-apk" (un zip con app-debug.apk).
+4. Copia app-debug.apk al pendrive (FAT32) y instalalo en la radio.
+5. Pulsa Inicio y elige "Inicio Audi" > "Siempre".
+Pulsacion larga en un acceso = elegir otra app para ese boton.
